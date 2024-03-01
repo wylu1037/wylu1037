@@ -67,8 +67,9 @@
 
 <h3 align="left">Github comprehensive stats:</h3>
 <p align="left">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wylu1037&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wylu" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wylu1037&show_icons=true&locale=en&theme=tokyonight" alt="wylu" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wylu1037&&theme=tokyonight" alt="wylu" /></p>
+<!-- &theme=tokyonight -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wylu1037&show_icons=true&locale=en&layout=compact" alt="wylu" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wylu1037&show_icons=true&locale=en" alt="wylu" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wylu1037" alt="wylu" /></p>
 
 <img src="https://github.com/wylu1037/wylu1037/blob/output/snake.svg" alt="Snake animation" />
