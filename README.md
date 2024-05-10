@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/wylu1037" target="blank"><img src="https://img.shields.io/twitter/follow/wylu1037?logo=twitter&style=for-the-badge" alt="wylu"></p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Go gRPC Web**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Blockchain, Golang**
 
 - 📫 How to reach me **wylu1037@gmail.com**
 
@@ -63,7 +63,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
-
 
 <h3 align="left">Github comprehensive stats:</h3>
 <p align="left">
