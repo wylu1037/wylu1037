@@ -58,6 +58,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://docusaurus.io/" target="_blank" rel="noreferrer"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" alt="Docusaurus" width="40" height="40"/></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="120" height="40"/></a>
 <a href="https://github.com/grafana/k6" target="_blank" rel="noreferrer"><img src="https://github.com/grafana/k6/raw/master/assets/k6-logo-with-grafana.svg" alt="K6" width="40" height="40"/></a>
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/></a>
