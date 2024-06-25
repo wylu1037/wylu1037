@@ -36,6 +36,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/> </a>
 <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/gradle-1.svg" alt="Gradle" width="120" height="40"/> </a>
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/680px-Apache_Maven_logo.svg.png" alt="Maven" width="120" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Maven" width="80" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
 <a href="https://github.com/bitnami/charts" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitnami.svg" alt="Bitnami" width="40" height="40"/> </a>
@@ -47,13 +48,19 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/> </a>
 <a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="Sqlite" width="80" height="40"/> </a>
+<a href="https://github.com/mybatis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mybatis/logo/32295ff550d29ca6e8b22c8a325e22c617791bf9/logo-bird-ninja.svg" alt="Sqlite" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="120" height="40"/></a>
+<a href="https://github.com/grafana/k6" target="_blank" rel="noreferrer"><img src="https://github.com/grafana/k6/raw/master/assets/k6-logo-with-grafana.svg" alt="K6" width="40" height="40"/></a>
+<a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" width="40" height="40"/></a>
+<a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="Bitcoin" width="40" height="40"/></a>
 
 
 
