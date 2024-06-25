@@ -38,6 +38,8 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/680px-Apache_Maven_logo.svg.png" alt="Maven" width="120" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Maven" width="80" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://dash.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" alt="Cloudflare" width="80" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="Vercel" width="80" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
 <a href="https://github.com/bitnami/charts" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitnami.svg" alt="Bitnami" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
