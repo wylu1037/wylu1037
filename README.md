@@ -65,8 +65,7 @@
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Istio" width="40" height="40"/></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" width="40" height="40"/></a>
 <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="Bitcoin" width="40" height="40"/></a>
-
-
+<a href="https://pages.near.org/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/near-protocol-near-logo.svg" alt="Near" width="40" height="40"/></a>
 
 
 <h3 align="left">Github comprehensive stats:</h3>
