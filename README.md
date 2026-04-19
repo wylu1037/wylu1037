@@ -8,15 +8,15 @@
 
 <p align="left"><a href="https://twitter.com/wylu1037" target="blank"><img src="https://img.shields.io/twitter/follow/wylu1037?logo=twitter&style=for-the-badge" alt="wylu" ></a></p>
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **Agents**
 
-- 🌱 I’m currently learning **DevOps & AI**
+- 🌱 I’m currently learning **Harness Engineering**
 
-- 💬 Ask me about **Blockchain, AI**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **wylu1037@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I enjoy turning ideas into working agents**
 
 <br clear="both" />
 
