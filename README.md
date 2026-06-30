@@ -41,6 +41,9 @@
   <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>
   <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" /></a>
   <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /></a>
+  <a href="https://spring.io/projects/spring-cloud-alibaba"><img src="https://img.shields.io/badge/Spring%20Cloud%20Alibaba-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud Alibaba" /></a>
+  <a href="https://nacos.io/"><img src="https://img.shields.io/badge/Nacos-1890FF?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Nacos" /></a>
+  <a href="https://spring.io/projects/spring-cloud-openfeign"><img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="OpenFeign" /></a>
   <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://docusaurus.io/"><img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" /></a>
   <a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo" /></a>
